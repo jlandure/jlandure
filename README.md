@@ -36,10 +36,12 @@ Welcome to my GitHub! Passionate about Cloud technologies and AI, I explore and 
 
 ## 🏆 Roles & Achievements
 
-- 🥇 **Google Developer Expert (GDE) Cloud** 
-- 🤖 **Cursor Ambassador**
+- 🥇 **Google Developer Expert (GDE) Cloud AI** and also **Google Cloud Ambassador**
+- 🥇 **AWS Community Builder (CB)** 
+- 🤖 **Space X AI / Cursor Ambassador**
 - 🏢 **Co-Founder & CTO @ TechTown**
 - 🎤 **Co-Founder GDG Nantes** (2011) & Organizer **DevFest Nantes** (one of the largest DevFest in the world)
+- 🎤 **Leader AWS Nantes** (2024)
 - 🆕 **Founder TechReady** — New conference focused on AI & Cloud
 - 🏅 **Google Partner All-Star** (2022) & Multiple **Community Awards**
 
