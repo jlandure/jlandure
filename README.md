@@ -20,16 +20,16 @@ Welcome to my GitHub! Passionate about Cloud technologies and AI, I explore and 
 ## ✨ Expertise & Contributions
 
 - 📝 **Regular blogging** — Articles on Cloud & AI (DEV.to, Medium)
-- 🎓 **Trainer** — Official Google Cloud Authorized Trainer
+- 🎓 **Trainer** — Official Google Cloud Authorized Trainer & Claude / Copilot Trainer
 - 🎤 **Speaker** — 15+ years of talks and workshops
   - [My talks on Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
-  - [Slides on Speakerdeck](https://speakerdeck.com/jlandure)
+  - [Slides]([https://speakerdeck.com/jlandure](https://jlandure.dev/slides/))
 - 🌱 **Green Software** — LFC131 Green Software for Practitioners certified
 
 ## 🚀 Tech Focus
 
 - **Cloud & AI** — Google Cloud Platform (GCP), Firebase, Cloud Run, Gen AI
-- **Certifications** — GitHub Copilot, 10+ Google Cloud (Architect, Developer, DevOps, Security, ML Engineer, Data Engineer), AWS Cloud Practitioner, CKAD Kubernetes
+- **Certifications** — Professional Claude Certified Architect, GitHub Copilot, 10+ Certified Google Cloud (Architect, Developer, DevOps, Security, ML Engineer, Data Engineer, Gen AI Leader), AWS Cloud Practitioner, AWS AI Practitioner, CKAD Kubernetes
 - **DevOps & Containers** — Kubernetes, Docker, CI/CD, Cloud Run
 - **Development** — Node.js, Java, Python & Go
 - **Specialties** — Cloud Architecture, Gen AI, Green Software
